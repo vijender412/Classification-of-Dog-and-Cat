@@ -1,2 +1,3 @@
 # cat_dog
-Cat or Dog Prediction
+Cat or Dog Classification Problem solved using basic Prediction Model CNN
+
