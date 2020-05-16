@@ -35,7 +35,7 @@ imagePaths = list(paths.list_images(args["dataset"]))
 data = []
 labels = []
 
-path = r"C:/Users/ignite111/Desktop/new_ai/cats/"
+path = r"data/"
 for imagePath in os.listdir(path):
     image = cv2.imread(path+imagePath)
     #   print(image)
