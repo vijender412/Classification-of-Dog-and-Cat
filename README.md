@@ -16,5 +16,5 @@ python cat_dog_cnn.py
 ```
 
 ## Motivation :smiley:
->![Easy?](https://quotescover.com/wp-content/uploads/2018/10/your_profile_picture-22.jpg =250x250)
+>![Easy?](https://quotescover.com/wp-content/uploads/2018/10/your_profile_picture-22.jpg | width=100)
 
